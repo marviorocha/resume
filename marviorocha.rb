@@ -30,13 +30,11 @@ education = "C E Matias Neto 2009-2012"
 
 #Other curse
 
-curse = "Master Mind - Recognattion for napoleo hill fundation"
+curse = "Master Mind - Recognition in napoleon hill foundation"
 
 #cover letter
 
-print = " Hello my name is #{name} - (#{mail}) has a objective #{objective}.
- I've with #{highlights} and experience in #{experience}  "
-
-
+print = "Hello my name is #{name} - (#{mail}) has a objective #{objective}.
+I've #{highlights} and experience in #{experience}"
 
 </ruby>
