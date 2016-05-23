@@ -4,7 +4,7 @@
 
 name = "Marvio de Siqueira Rocha"
 mail = "marviorocha@marviorocha.com"
-endress = "Governador Roberto Silveira, Macaé-RJ, 238 Centro"
+address = "Governador Roberto Silveira, Macaé-RJ, 238 Centro"
 linkedin = "http://linkedin.com/in/marviorocha"
 phones = "+55 (22) 999225702 / +55 (22) 2772-1808"
 
